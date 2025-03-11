@@ -45,7 +45,7 @@ function App() {
       <div className="fixed inset-0 pointer-events-none opacity-10">
         <div className="absolute top-20 left-10 transform -rotate-12">
           <img 
-            src="https://raw.githubusercontent.com/stackblitz/stackblitz-handbook/main/docs/assets/binebastelt-logo.png" 
+            src="https://binebastelt.de/images/logo.png" 
             alt="" 
             className="w-32 h-32"
           />
